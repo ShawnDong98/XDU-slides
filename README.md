@@ -7,7 +7,6 @@ Xidian University Style Beamer Theme
 本主题参考西安电子科技大学VI系统而写，写作过程借鉴了 The AAU Sidebar Beamer Theme.
 
 ## 主题介绍
-终于抽出了时间，将该项目整理了一下，希望之前 Fork 过本项目的同学更新一下，这次比之前的正规了许多，更加便于维护了。
 
 ### 参数设置
 
@@ -72,13 +71,4 @@ $ make clean
 	文件夹：
 	|----- XDUtheme % 主题用到的矢量图文件夹
 	|----- Image % 图片文件文件夹，用于存放自己用到的图片，避免与主题的混淆。
-
-## 主题示例
-
-![图一](./Image/Demo_1.png)
-![图二](./Image/Demo_2.png)
-![图三](./Image/Demo_3.png)
-![图四](./Image/Demo_4.png)
-![图五](./Image/Demo_5.png)
-	
 	
